@@ -38,15 +38,22 @@ const SearchFilter = ({
           placeholder="search"
           value={search}
           onChange={handleInputChange}
+          className="search-btn"
         />
       </div>
 
       <div>
-        <button onClick={() => sortCountries("asc")}>Asc</button>
+        <button 
+          className="button_asc" 
+          onClick={() => sortCountries("asc")}>
+        Asc</button>
       </div>
 
       <div>
-        <button onClick={() => sortCountries("des")}>Desc</button>
+        <button 
+          className="button_asc" 
+          onClick={() => sortCountries("des")}>
+        Desc</button>
       </div>
 
       <div>
