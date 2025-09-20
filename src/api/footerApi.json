@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Kolkata, West Bengal"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+91 9330700396"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "patelhamza46@gmail.com"
+  }
+]
